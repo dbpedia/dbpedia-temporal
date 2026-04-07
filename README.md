@@ -1,5 +1,7 @@
 # DBpedia Temporal Graph Extraction
 
+Link to [Paper](https://dbs.uni-leipzig.de/files/research/publications/2025-6/pdf/DBpedia-TKG.pdf)
+
 The DBpedia Temporal Knowledge Graph (DBpedia-TKG) is an extension of the DBpedia framework that incorporates temporal dynamics, capturing the evolution of knowledge from Wikipedia over time. It provides a rich temporal dataset with over 1.7 billion triples and 270 million distinct start and end times for their lifespans, derived from Wikipedia's meta-history dumps. This repository includes detailed configurations, such as temporal filters and DBpedia ontology versions, enabling flexible extractions tailored to specific use cases. With its temporal annotations, DBpedia-TKG supports advanced applications in temporal reasoning, predictive modeling, and performance benchmarking. It is a valuable resource for researchers and developers interested in dynamic knowledge representation and temporal graph analytics. The dataset is openly available under the CC BY-SA 4.0 license.
 
 # Repository Structure
@@ -68,7 +70,7 @@ git submodule update --init --recursive
 ```
 
 # Citing
-
+Link to [Paper](https://dbs.uni-leipzig.de/files/research/publications/2025-6/pdf/DBpedia-TKG.pdf)
 ```
 @inproceedings{DBLP:conf/esws/HoferTRR25,
   author       = {Marvin Hofer and
